@@ -1,0 +1,22 @@
+{
+  "folders" : [
+	{
+		"name": "Live Share Workspace",
+		"uri": "vsls:/"
+	}
+],
+  "settings" : {
+    "vsliveshare.join.reload.workspaceFolder" : "\/var\/folders\/wh\/kmgwds4s10z2pqdj9hqhq_540000gp\/T\/vsliveshare\/tmp-DE9BEEFAE3F6A86674250B99AFFC19E65D93",
+    "files.hotExit" : "off",
+    "vsliveshare.join.reload.workspaceId" : "DE9BEEFAE3F6A86674250B99AFFC19E65D93",
+    "vsliveshare.join.correlationId": "INVALID",
+    "extensions.ignoreRecommendations": true,
+    "typescript.tsc.autoDetect": "off",
+    "jake.autoDetect": "off",
+    "grunt.autoDetect": "off",
+    "gulp.autoDetect": "off",
+    "npm.autoDetect": "off",
+    "debug.allowBreakpointsEverywhere": true,
+    "html.autoClosingTags": false
+  }
+}
