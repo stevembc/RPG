@@ -1,12 +1,13 @@
 import pygame
+from Data import *
 
-#Platforme Top
+#Platforme Bot
 class Platform (pygame.sprite.Sprite):
     def __init__(self):
         super().__init__()
-        self.surf = pygame.Surface((1152,10))
+        self.surf = pygame.Surface((WIDTH,10))
         self.surf.fill((146,87,0))
-        self.rect = self.surf.get_rect(center = (5,576))
+        self.rect = self.surf.get_rect(midbottom = (WIDTH/2,HEIGHT))
 
 """
 #platform left
